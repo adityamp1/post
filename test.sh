@@ -1,11 +1,9 @@
 #!/bin/bash
 
 # Configure Git global settings
-#git config --global user.name "adityamp1"
-#git config --global user.email "2020wa86039@wilp.bits-pilani.ac.in"
+git config --global user.name "adityamp1"
+git config --global user.email "2020wa86039@wilp.bits-pilani.ac.in"
 
-# Clone the GitHub repository
-#git clone https://adityamp1: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@github.com/adityamp1/post
 
 # Update package list and install dependencies
 sudo apt-get update
