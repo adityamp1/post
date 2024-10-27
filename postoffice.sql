@@ -48,7 +48,7 @@ CREATE TABLE `india` (
 --
 
 INSERT INTO `india` (`id`, `COUNTRY`, `POSTAL_CODE`, `CITY`, `STATE`, `SHORT_STATE`, `COUNTY`, `SHORT_COUNTY`, `COMMUNITY`, `SHORT_COMMUNITY`, `LATITUDE`, `LONGITUDE`, `ACCURACY`) VALUES
-(273442, 'IN', '744301', 'Kakana', 'Andaman & Nicobar Islands', '01', 'Nicobar', '638', 'Carnicobar', '', 9.1167, 92.8, 4),
+(273442, 'IN', '123456', 'Kakana', 'Andaman & Nicobar Islands', '01', 'Nicobar', '638', 'Carnicobar', '', 9.1167, 92.8, 4),
 (273443, 'IN', '744301', 'Sawai', 'Andaman & Nicobar Islands', '01', 'Nicobar', '638', 'Carnicobar', '', 7.5166, 93.6031, 4),
 (273444, 'IN', '744301', 'Mus', 'Andaman & Nicobar Islands', '01', 'Nicobar', '638', 'Carnicobar', '', 9.2333, 92.7833, 4),
 (273445, 'IN', '744301', 'Lapathy', 'Andaman & Nicobar Islands', '01', 'Nicobar', '638', 'Carnicobar', '', 9.1833, 92.7667, 3),
